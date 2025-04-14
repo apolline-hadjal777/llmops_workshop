@@ -13,4 +13,4 @@ How to run the code:
 python -m services.groq_service
 python -m openai_service.py
 
-! Make sure the __ini__.py files are actualy working !
+! Make sure the __ini__.py files are actually working !
